@@ -1,6 +1,6 @@
 # PredictorFC
 
-PredictorFC is a machine learning-based web application that predicts soccer match outcomes and scores using historical Premier League data. It combines a React frontend with a Python backend to deliver real-time predictions based on team statistics.
+PredictorFC is a machine learning-based web application that predicts Premier League soccer match outcomes and scores using data from the 2020-2021 -> 2024-2025 Premier League Season. It combines a React frontend with a Django backend to deliver real-time predictions based on team statistics.
 
 ---
 
@@ -89,8 +89,11 @@ PredictorFC is a machine learning-based web application that predicts soccer mat
 ## Contact
 
 Created by Christian Rodriguez  
+
 Email: rodriguez.christian325@gmail.com
+
 LinkedIn: [https://www.linkedin.com/in/christian-rodriguezucf/]
+
 GitHub: [https://github.com/chrisrod1307](https://github.com/chrisrod1307)
 
 ---
