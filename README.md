@@ -20,6 +20,7 @@ PredictorFC is a machine learning-based web application that predicts Premier Le
 - **Backend:** Python, scikit-learn, pandas
 - **Machine Learning:** Random Forest Classifier and Regressor
 - **Version Control:** Git & GitHub
+- **Data Source:** https://www.football-data.co.uk/englandm.php 
 
 ---
 
